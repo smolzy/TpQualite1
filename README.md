@@ -1,4 +1,4 @@
 # TpQualite1
 
-= Nolan Malherbe
-= Dimitri Marechal
+Nolan Malherbe
+Dimitri Marechal
